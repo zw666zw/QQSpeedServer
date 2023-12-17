@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Server", "Server\Server.vcxproj", "{6EC2D4B0-9F73-4FC9-91FF-C6FB3C04814C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Launcher", "Launcher\Launcher.vcxproj", "{21FE2570-03EF-4B9D-9698-18D8051F287E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+		ZingSpeed|x64 = ZingSpeed|x64
+		ZingSpeed|x86 = ZingSpeed|x86
+		ZingSpeed-Debug|x64 = ZingSpeed-Debug|x64
+		ZingSpeed-Debug|x86 = ZingSpeed-Debug|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EC2D4B0-9F73-4FC9-91FF-C6FB3C04814C}.Debug|x64.ActiveCfg = Release|Win32
+		{6EC2D4B0-9F73-4FC9-91FF-C6FB3C04814C}.Debug|x86.ActiveCfg = Release|Win32
+		{6EC2D4B0-9F73-4FC9-91FF-C6FB3C04814C}.Debug|x86.Build.0 = Release|Win32
+		{6EC2D4B0-9F73-4FC9-91FF-C6FB3C04814C}.Release|x64.ActiveCfg = Release|x64
+		{6EC2D4B0-9F73-4FC9-91FF-C6FB3C04814C}.Release|x86.ActiveCfg = Release|Win32
+		{6EC2D4B0-9F73-4FC9-91FF-C6FB3C04814C}.Release|x86.Build.0 = Release|Win32
+		{6EC2D4B0-9F73-4FC9-91FF-C6FB3C04814C}.ZingSpeed|x64.ActiveCfg = ZingSpeed|x64
+		{6EC2D4B0-9F73-4FC9-91FF-C6FB3C04814C}.ZingSpeed|x86.ActiveCfg = ZingSpeed|Win32
+		{6EC2D4B0-9F73-4FC9-91FF-C6FB3C04814C}.ZingSpeed|x86.Build.0 = ZingSpeed|Win32
+		{6EC2D4B0-9F73-4FC9-91FF-C6FB3C04814C}.ZingSpeed-Debug|x64.ActiveCfg = ZingSpeed-Debug|x64
+		{6EC2D4B0-9F73-4FC9-91FF-C6FB3C04814C}.ZingSpeed-Debug|x64.Build.0 = ZingSpeed-Debug|x64
+		{6EC2D4B0-9F73-4FC9-91FF-C6FB3C04814C}.ZingSpeed-Debug|x86.ActiveCfg = ZingSpeed-Debug|Win32
+		{6EC2D4B0-9F73-4FC9-91FF-C6FB3C04814C}.ZingSpeed-Debug|x86.Build.0 = ZingSpeed-Debug|Win32
+		{21FE2570-03EF-4B9D-9698-18D8051F287E}.Debug|x64.ActiveCfg = Release|Win32
+		{21FE2570-03EF-4B9D-9698-18D8051F287E}.Debug|x86.ActiveCfg = Release|Win32
+		{21FE2570-03EF-4B9D-9698-18D8051F287E}.Debug|x86.Build.0 = Release|Win32
+		{21FE2570-03EF-4B9D-9698-18D8051F287E}.Release|x64.ActiveCfg = Release|x64
+		{21FE2570-03EF-4B9D-9698-18D8051F287E}.Release|x86.ActiveCfg = Release|Win32
+		{21FE2570-03EF-4B9D-9698-18D8051F287E}.Release|x86.Build.0 = Release|Win32
+		{21FE2570-03EF-4B9D-9698-18D8051F287E}.ZingSpeed|x64.ActiveCfg = ZingSpeed|x64
+		{21FE2570-03EF-4B9D-9698-18D8051F287E}.ZingSpeed|x86.ActiveCfg = ZingSpeed|Win32
+		{21FE2570-03EF-4B9D-9698-18D8051F287E}.ZingSpeed|x86.Build.0 = ZingSpeed|Win32
+		{21FE2570-03EF-4B9D-9698-18D8051F287E}.ZingSpeed-Debug|x64.ActiveCfg = ZingSpeed-Debug|x64
+		{21FE2570-03EF-4B9D-9698-18D8051F287E}.ZingSpeed-Debug|x64.Build.0 = ZingSpeed-Debug|x64
+		{21FE2570-03EF-4B9D-9698-18D8051F287E}.ZingSpeed-Debug|x86.ActiveCfg = ZingSpeed-Debug|Win32
+		{21FE2570-03EF-4B9D-9698-18D8051F287E}.ZingSpeed-Debug|x86.Build.0 = ZingSpeed-Debug|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15B7C9C3-FBF4-4D38-9524-FECD8DECDDFE}
+	EndGlobalSection
+EndGlobal
